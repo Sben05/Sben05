@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Shreeniket Bendre</h1>
 <h3 align="center">A 15 Year Old Full Stack Developer</h3>
 
