@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Open Source iOS](https://github.com/dkhamsing/open-source-ios-apps)
 
-- 👨‍💻 All of my projects are available at [devpost.com/sben05](devpost.com/sben05)
+- 👨‍💻 All of my projects are available [here](https://devpost.com/sben05)
 
 - 💬 Ask me about **iOS and Android native development**
 
