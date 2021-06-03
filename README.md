@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [APCSA Snake](https://github.com/Sben05/Snake)
 
-- 🌱 I’m currently learning **Backend Development, Socket Programming, JAVA GUI**
+- 🌱 I’m currently learning **Backend Development, WAMP Stack**
 
 - 👯 I’m looking to collaborate on [Open Source iOS](https://github.com/dkhamsing/open-source-ios-apps)
 
