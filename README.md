@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
-- 🔭 I’m currently working on [APCSA Snake](https://github.com/Sben05/Snake)
+- 🔭 I’m currently working on [Snake](https://github.com/Sben05/Snake)
 
 - 🌱 I’m currently learning **Backend Development, WAMP Stack**
 
