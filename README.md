@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shreeniketbendre@outlook.com**
 
-- ⚡ Fun fact **Somebody at google was just like "yea, just have someone drive down every road on earth".
+- ⚡ Fun fact **:Somebody at Google just went "yea, just have someone drive down every road on Earth."
 And you know what? They did it.**
 
 <h3 align="left">Connect with me:</h3>
