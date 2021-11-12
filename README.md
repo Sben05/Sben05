@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **shreeniketbendre@outlook.com**
 
-- ⚡ Fun fact **I want to live on Mars.**
+- ⚡ Fun fact **Somebody at google was just like "yea, just have someone drive down every road on earth".
+And you know what? They did it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
