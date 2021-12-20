@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
-- 🔭 I’m currently working on [Snake](https://github.com/Sben05/Snake)
+- 🔭 I’m currently working on **Assorted Webscraping Projects (mostly Wikipedia)**
 
-- 🌱 I’m currently learning **Backend Development, WAMP Stack**
+- ✔️ I recently completed [**Snake**](https://github.com/Sben05/Snake)
+
+- 🌱 I’m currently learning **Python Webscraping**
 
 - 👯 I’m looking to collaborate on [Open Source iOS](https://github.com/dkhamsing/open-source-ios-apps)
 
