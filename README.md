@@ -9,7 +9,7 @@
 
 - ✔️ I recently completed [**Snake**](https://github.com/Sben05/Snake)
 
-- 🌱 I’m currently learning **Python Webscraping**
+- 🌱 I’m currently learning **Racket Low Level**
 
 - 👯 I’m looking to collaborate on [Open Source iOS](https://github.com/dkhamsing/open-source-ios-apps)
 
