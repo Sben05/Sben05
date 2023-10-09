@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **iOS and Android native development**
 
-- 📫 How to reach me **shreeniketbendre@outlook.com**
+- 📫 How to reach me **shreeniketbendre2027@u.northwestern.edu**
 
 - ⚡ Fun fact **Somebody at Google just went "yeah, let's just have someone drive down every road on Earth."
 And you know what? They did it.**
