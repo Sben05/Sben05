@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Assorted Webscraping Projects (mostly Wikipedia)**
 
-- ✔️ I recently completed [**Snake**](https://github.com/Sben05/Snake)
+- ✔️ I recently completed [**Project07**]([https://github.com/Sben05/Snake](https://github.com/Sben05/Project07))
 
-- 🌱 I’m currently learning **Racket Low Level**
+- 🌱 I’m currently learning **Advanced OOP C++**
 
 - 👯 I’m looking to collaborate on [Open Source iOS](https://github.com/dkhamsing/open-source-ios-apps)
 
